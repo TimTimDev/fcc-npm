@@ -1,4 +1,9 @@
 {
+	"author": "TimTimDev(Timo Pirn)",
+	"description": "A project just for practice",
+	"keywords": ["educational", "freeCodeCamp", "practice", "back-end"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
